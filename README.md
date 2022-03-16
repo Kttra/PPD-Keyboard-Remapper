@@ -27,7 +27,7 @@ This script expects your configuration to be set to:
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A = Left  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D = Right
   
-**Settings**
+**Visuals**
 ----------------------------------------------------------------------------------------------------------------------------
 This is a visual representation of what the key bindings should be. Do note that the keys will be numbered unlike this picture.
 
