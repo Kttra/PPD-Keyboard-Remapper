@@ -36,7 +36,7 @@ This is the result of the script:
 
 ![Keyboard](https://user-images.githubusercontent.com/100814612/158518899-27df6551-49b0-4c6d-ab28-bc692acf11e5.png)
 
-This is the layout we are trying to emulate. To have a slider like effect like the controller, we can use a touchpad or graphics tablet. For some, these options may not be available, so it is important that we set the keybindings in a way that the sliders are accessible for both hands which we do above.
+This is the layout we are trying to emulate. To have a slider like effect like the controller, we can use a touchpad or graphics tablet. For some, these options may not be available, so it is important that we set the keybindings in a way that the sliders are accessible for both hands. We do this in the above example.
 
 ![Future Tone Controller](https://user-images.githubusercontent.com/100814612/158519490-dfc45ba8-3015-4172-aefe-34ce4f567f70.png)
 
