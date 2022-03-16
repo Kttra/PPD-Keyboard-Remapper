@@ -33,8 +33,7 @@ Keyboard rollover is the ability of keyboard to correctly handle several simulta
         A = Left  
         D = Right
 .
-    <td>
-     ![Screenshot 2022-03-15 204216](https://user-images.githubusercontent.com/100814612/158513063-e951846a-d963-4b0e-a322-594f1edfca90.png)</td>
+    <td><img src="https://github.com/Kttra/PPD-Keyboard-Remapper/blob/main/remapper.png" align="right" alt="4" width = 372px height = 456px>
  </tr>
 </table>
 
