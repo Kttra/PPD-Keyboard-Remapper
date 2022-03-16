@@ -7,7 +7,7 @@ Keyboard rollover is the ability of keyboard to correctly handle several simulta
                
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Configuration</b></td>
+    <td><b style="font-size:10px">Configuration</b></td>
     <td><b style="font-size:30px">Image</b></td>
  </tr>
  <tr>
