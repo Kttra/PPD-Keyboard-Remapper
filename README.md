@@ -32,3 +32,10 @@ This script expects your configuration to be set to:
 This is a visual representation of what the key bindings should be. Do note that the keys will be numbered unlike this picture.
 
  ![remapper](https://user-images.githubusercontent.com/100814612/158515541-1d314e36-7a3d-42af-a10c-695c57b85757.png)
+ 
+ This is the result of the script:
+
+![Keyboard](https://user-images.githubusercontent.com/100814612/158518899-27df6551-49b0-4c6d-ab28-bc692acf11e5.png)
+
+
+ 
