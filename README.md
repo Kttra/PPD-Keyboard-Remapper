@@ -36,7 +36,7 @@ This is the result of the script:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100814612/158518899-27df6551-49b0-4c6d-ab28-bc692acf11e5.png">
 </p>
-This is the layout we are trying to emulate. To have a slider like effect like the controller, we can use a touchpad or graphics tablet. For some, these options may not be available, so it is important that we set the keybindings in a way that the sliders are accessible for both hands. We do this in the above example.
+This is the layout we are trying to emulate. To have a slider like effect like the controller, we can use a touchpad or graphics tablet. For some, these options may not be available, so it is important that we set the keybindings in a way that the sliders are accessible to both hands. We do this in the above example.
 
 
 <img src="https://user-images.githubusercontent.com/100814612/158713277-6a58193d-3169-49ed-b53d-983b13c7c167.png" width="600" height="300"/><img><img>
