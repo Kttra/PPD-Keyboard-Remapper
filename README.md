@@ -29,9 +29,9 @@ This script expects your configuration to be set to:
 **Visuals**
 ----------------------------------------------------------------------------------------------------------------------------
 This is a visual representation of what the key bindings should be. Do note that the keys will be numbered unlike this picture.
-<p align="center">
+
 <img src="https://user-images.githubusercontent.com/100814612/158515541-1d314e36-7a3d-42af-a10c-695c57b85757.png">
-</p>
+
 This is the result of the script:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100814612/158518899-27df6551-49b0-4c6d-ab28-bc692acf11e5.png">
