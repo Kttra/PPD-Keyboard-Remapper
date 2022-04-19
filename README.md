@@ -40,3 +40,11 @@ This is the layout we are trying to emulate. To have a slider like effect like t
 
 
 <img src="https://user-images.githubusercontent.com/100814612/158713277-6a58193d-3169-49ed-b53d-983b13c7c167.png" width="600" height="300"/><img><img>
+
+**Other Related Projects**
+----------------------------------------------------------------------------------------------------------------------------
+[Macro Runner](https://github.com/Kttra/MacroRunner) - Run custom recorded macros on different gaming consoles and computers.
+
+[TurboMode](https://github.com/Kttra/TurboMode) - Emulate the popular turbo mode feature from many custom controllers and arcade controllers.
+
+[Stick Drift Fix](https://github.com/Kttra/Stick-Drift-Fix) - Stick drift is a prevalent problem in all types of controllers ranging from the switch to the playstation. This project prevents the controller from drifting at a software level.
