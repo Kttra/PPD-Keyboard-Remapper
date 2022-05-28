@@ -41,6 +41,32 @@ This is the layout we are trying to emulate. To have a slider like effect like t
 
 <img src="https://user-images.githubusercontent.com/100814612/158713277-6a58193d-3169-49ed-b53d-983b13c7c167.png" width="600" height="300"/><img><img>
 
+**Other Applications**
+------------------------
+With the new release of MegaMix+, it has come to my attention that having shift + numpad keys pressed at the same time can cause issues. Also, some games don't allow for caplock to be rebound. I have found a work around with these issues by rebinding the numpad keys and caplock (Numpad + shift keys will only be bound by what you set if numlock is toggled off which completely resolves the issues).
+
+ ```
+ //MegaMix+ Remapper (using default controls)
+
+//Left Sliders
+Keyboard.q = Keyboard.CapsLock
+Keyboard.q = Keyboard.NUMPAD1
+
+//Right Sliders
+Keyboard.e = Keyboard.NUMPAD2
+Keyboard.e = Keyboard.NUMPAD3
+
+//Circle
+Keyboard.l = Keyboard.NumPadDot
+
+//X
+Keyboard.k = Keyboard.NUMPAD0
+ ```
+
+**Summary**
+-------------------
+I understand that this project may be really niche and may not really help others, but I found it to be interesting. We look at the limitations in laptop keyboards and find a way around them. Now, could we bypass all of this by just getting a mechanical keyboard with built in remappable buttons? Yes, we could. But sometimes it's fun to see if there's an alternative.
+
 **Other Related Projects**
 ----------------------------------------------------------------------------------------------------------------------------
 [Macro Runner](https://github.com/Kttra/MacroRunner) - Run custom recorded macros on different gaming consoles and computers.
